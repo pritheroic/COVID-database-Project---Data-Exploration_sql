@@ -60,6 +60,7 @@ Using Temporary Tables:
 
 Store intermediate results in a temporary table for further analysis on vaccination rates.
 
+# Queries
 
 /* Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
